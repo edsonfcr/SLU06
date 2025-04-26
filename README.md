@@ -1,0 +1,2 @@
+# SLU06
+slu06 EXERCISE
